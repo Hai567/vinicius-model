@@ -2,3 +2,4 @@ numpy
 pandas
 shap
 matplotlib
+holidays
